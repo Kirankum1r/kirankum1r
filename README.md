@@ -8,3 +8,6 @@
 ![Nuclear Physics](https://img.shields.io/badge/-Nuclear%20Physics-FF1493?style=flat-square&logo=atom&logoColor=white)
 ![Mechanics](https://img.shields.io/badge/-Mechanics-708090?style=flat-square&logo=gear&logoColor=white)
 ![Electromagnetic Theory (EMT)](https://img.shields.io/badge/-EM%20Theory-1E90FF?style=flat-square&logo=electron&logoColor=white)
+![Quantum Mechanics](https://img.shields.io/badge/-Quantum%20Mechanics-9400D3?style=flat-square&logo=quarkus&logoColor=white)
+![Digital Physics](https://img.shields.io/badge/-Digital%20Physics-00BFFF?style=flat-square&logo=matrix&logoColor=white)
+![Nanomaterials](https://img.shields.io/badge/-Nanomaterials-2E8B57?style=flat-square&logo=micropython&logoColor=white)
